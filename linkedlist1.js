@@ -57,7 +57,16 @@ class LinkedList {
         }
         return -1;
     }
+    //inserts a new head
+    insertHead(data) {
 
+    }
+
+    //prepends a list to the ll
+    prepend(...items) {
+
+    }
+    
     //deletes the head of LL
     deleteHead() {
 
